@@ -1,7 +1,7 @@
 terraform-aws-ecr - just another ECR module
 -----
 
-Basic Uses
+Examples
 ----------
 
     module "my_ecr_repository" {
